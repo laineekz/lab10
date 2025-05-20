@@ -23,3 +23,7 @@ lorem ipsum te dolor
 <https://thispersondoesnotexist.com/>
 
 lirili larila
+
+```cpp
+  cout << "CODE EXAMPLE";
+```
